@@ -9,3 +9,14 @@ c:\users\feyza\source\repos\LibraryManagement\Library.DAL\obj\Debug\Library.DAL.
 c:\users\feyza\source\repos\LibraryManagement\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
 c:\users\feyza\source\repos\LibraryManagement\Library.DAL\obj\Debug\Library.DAL.dll
 c:\users\feyza\source\repos\LibraryManagement\Library.DAL\obj\Debug\Library.DAL.pdb
+E:\LibraryManagement\Library.DAL\bin\Debug\Library.DAL.dll.config
+E:\LibraryManagement\Library.DAL\bin\Debug\Library.DAL.dll
+E:\LibraryManagement\Library.DAL\bin\Debug\Library.DAL.pdb
+E:\LibraryManagement\Library.DAL\bin\Debug\EntityFramework.dll
+E:\LibraryManagement\Library.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\LibraryManagement\Library.DAL\bin\Debug\EntityFramework.xml
+E:\LibraryManagement\Library.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\LibraryManagement\Library.DAL\obj\Debug\Library.DAL.csprojResolveAssemblyReference.cache
+E:\LibraryManagement\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+E:\LibraryManagement\Library.DAL\obj\Debug\Library.DAL.dll
+E:\LibraryManagement\Library.DAL\obj\Debug\Library.DAL.pdb

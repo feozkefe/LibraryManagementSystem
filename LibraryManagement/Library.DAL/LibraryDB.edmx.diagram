@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7bd03e1a4468452090263712d8c40fb0" Name="Diagram1" ZoomLevel="95">
+        <EntityTypeShape EntityType="LibraryManagementModel.BookIssue" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.BookReturn" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Books" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Department" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Genres" Width="1.5" PointX="0.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Staff" Width="1.5" PointX="5.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Student" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="2" IsExpanded="true" />
+        <AssociationConnector Association="LibraryManagementModel.FK_BookIssue_Books" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_BookIssue_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_BookReturn_Books" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_BookReturn_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_Books_Genres" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_Student_Department" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

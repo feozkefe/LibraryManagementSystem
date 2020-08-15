@@ -1,4 +1,6 @@
-﻿using System;
+﻿using BLL.Service;
+using Library.DAL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +17,21 @@ namespace Library.WinUI
         public AvailableBooksPage()
         {
             InitializeComponent();
+        }
+
+        EntityService service = new EntityService();
+        private void button1_Click(object sender, EventArgs e)
+        {
+            StartPage sp1 = new StartPage();
+            sp1.Show();
+            this.Hide();
+        }
+
+        private void AvailableBooksPage_Load(object sender, EventArgs e)
+        {
+
+
+
         }
     }
 }

@@ -12,3 +12,17 @@ c:\users\feyza\source\repos\LibraryManagement\BLL\bin\Debug\EntityFramework.xml
 c:\users\feyza\source\repos\LibraryManagement\BLL\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\feyza\source\repos\LibraryManagement\BLL\obj\Debug\BLL.dll
 c:\users\feyza\source\repos\LibraryManagement\BLL\obj\Debug\BLL.pdb
+E:\LibraryManagement\BLL\bin\Debug\BLL.dll.config
+E:\LibraryManagement\BLL\bin\Debug\BLL.dll
+E:\LibraryManagement\BLL\bin\Debug\BLL.pdb
+E:\LibraryManagement\BLL\bin\Debug\EntityFramework.dll
+E:\LibraryManagement\BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\LibraryManagement\BLL\bin\Debug\Library.DAL.dll
+E:\LibraryManagement\BLL\bin\Debug\Library.DAL.pdb
+E:\LibraryManagement\BLL\bin\Debug\Library.DAL.dll.config
+E:\LibraryManagement\BLL\bin\Debug\EntityFramework.xml
+E:\LibraryManagement\BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\LibraryManagement\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\LibraryManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\LibraryManagement\BLL\obj\Debug\BLL.dll
+E:\LibraryManagement\BLL\obj\Debug\BLL.pdb
